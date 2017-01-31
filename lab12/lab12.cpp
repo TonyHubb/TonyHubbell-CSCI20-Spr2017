@@ -15,5 +15,5 @@
      cout <<"(( /     l   ( ( (" << endl;
      cout <<" (  )|| ||    ) ) )" << endl;
      cout <<" '--''-''-'   >+++>" << endl;
-     cout << "hello world!" << endl;
+     cout << "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww" << endl;
  }
