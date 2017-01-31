@@ -9,10 +9,10 @@
  { 
      cout<<"            _____" << endl;
      cout <<"           (meow!)" << endl;
-     cout <<"   |l___/|  )/" << endl;  // It is a cat!!!!
+     cout <<"   |\\___/|  )/" << endl;  // It is a cat!!!!
      cout <<"   (_ ^-^)" << endl;
      cout <<" _  )   (" << endl;
-     cout <<"(( /     l   ( ( (" << endl;
+     cout <<"(( /     \\   ( ( (" << endl;
      cout <<" (  )|| ||    ) ) )" << endl;
      cout <<" '--''-''-'   >+++>" << endl;
      cout << "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww" << endl;
