@@ -24,5 +24,6 @@
    
          coins = coins - (coins * tax); // finding the money output after tax
    cout << "You got back $" << coins * 0.01 << " after tax from the machine." << endl;
+  
      return 0;
  }
