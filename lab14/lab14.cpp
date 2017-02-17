@@ -1,6 +1,6 @@
 //Created By: Tony Hubbell
  //Created On: 2/7/2017
- // My coin machine at a 10.9% tax rate
+ // My coin machine at a 10.9% tax rate the coin machine takes in an input of coins and outputsyour returned money
  
  #include <iostream> 
  using namespace std; 
