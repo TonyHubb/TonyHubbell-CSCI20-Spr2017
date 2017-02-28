@@ -18,7 +18,7 @@
  {
      swap(num1, num2, num3, num4); // calls the swaped numbers
       srand(time(0)); // starts the random number generator
-    int random = rand() % num3 + num4; // random number between 1 and 100
+    int random = rand() % (num4 - num3) + num4; // random number between 1 and 100
     cout << "This is your new super amazing and all so fantastic random number: " << random << "\n"; 
  };
  
@@ -29,7 +29,9 @@
     int num2 = 0;
     int num3 = 0;
     int num4 = 0;
-    cin >> num1 >> num2;
+   
+    cout << "Pick a small number and then a larger one for your range of where you want your random number to appear" << endl;
+     cin >> num1 >> num2;
   randomNumber(num1, num2, num3, num4); 
      return 0;
  }
