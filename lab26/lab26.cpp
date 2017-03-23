@@ -50,9 +50,12 @@
         return Kelvin_;
     }
     void PrintTemperatures() {
-       GetTempFromKelvin();
-        GetTempFromCelsius();
-       GetTempFromFahrenheit();
+      double Kelvin = GetTempFromKelvin();
+       double Celsius = GetTempFromCelsius();
+      double Fahrenheit = GetTempFromFahrenheit();
+      cout << "from kelvin: " << Kelvin << endl;
+      cout << "from celsius: " << Celsius << endl;
+      cout << "from fahrenheit: " << Fahrenheit << endl;
     }
     private:
     double Kelvin_;
